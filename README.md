@@ -19,17 +19,12 @@ This is a solution to the [Product preview card component challenge on Frontend 
 Users should be able to:
 
 - View the optimal layout depending on their device's screen size
-- See hover and focus states for interactive elements
-
-### Screenshot
-
-![Product Card Desktop View](./screenshot-desktop.png)
-![Product Card Mobile View](./screenshot-mobile.png)
+- See hover and focus states for interactive elements.
 
 ### Links
 
 - Solution URL: [GitHub Repository](https://github.com/noob-coder6/Product-preview-page.git)
-- Live Site URL: [Live Demo](https://your-live-site-url.com)
+- Live Site URL: [Live Demo](https://noob-coder6.github.io/Product-preview-page/)
 
 ## My process
 
